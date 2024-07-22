@@ -26,7 +26,7 @@ The Book Store Project is a web application developed using Servlet, JSP (JavaSe
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/book-store.git
+   git clone https://github.com/faizkhan-06/book-store.git
    
 2. **Navigate to the project directory:**
    ```sh
